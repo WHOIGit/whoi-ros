@@ -5,6 +5,9 @@ ROS 2 drivers, messages and vehicle tools from the Woods Hole Oceanographic Inst
 **The code lives on WHOI's GitLab: <https://git.whoi.edu/whoi-ros>.**
 This GitHub repository is only a signpost. Please open issues and merge requests on git.whoi.edu.
 
+The guide and package index are at <https://whoi-ros.pages.whoi.edu>, and the longer guides
+are in the [wr2_docs wiki](https://git.whoi.edu/whoi-ros/wr2_docs/-/wikis/home).
+
 ## Repositories
 
 ### Core libraries
